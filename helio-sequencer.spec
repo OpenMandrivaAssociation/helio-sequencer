@@ -22,7 +22,8 @@ BuildRequires:	cmake(OpenShotAudio)
 BuildRequires:	pkgconfig(xinerama)
 BuildRequires:	pkgconfig(xrandr)
 BuildRequires:	pkgconfig(jack)
-BuildRequires:	freetype
+BuildRequires:	pkgconfig(freetype2)
+BuildRequires:	pkgconfig(glx)
 BuildRequires:	pkgconfig(xcursor)
 
 %description
