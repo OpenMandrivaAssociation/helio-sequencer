@@ -20,6 +20,7 @@ BuildRequires:	pkgconfig(alsa)
 BuildRequires:	pkgconfig(libcurl)
 BuildRequires:	cmake(OpenShotAudio)
 BuildRequires:	pkgconfig(xinerama)
+BuildRequires:	pkgconfig(xrandr)
 BuildRequires:	pkgconfig(jack)
 BuildRequires:	pkgconfig(xcursor)
 
